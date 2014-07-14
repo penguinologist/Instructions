@@ -1,0 +1,19 @@
+
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+
+}
+
+[data-hd-class="task/steps-informal"] {
+  background-color: gray;
+  border-color: black;
+}
+
