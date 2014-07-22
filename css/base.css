@@ -68,8 +68,8 @@ img {
 
 }
 
-[data-hd-class="task/steps-informal"] {
+/** [data-hd-class="task/steps-informal"] {
   background-color: gray;
   border-color: black;
-}
+} **/
 
