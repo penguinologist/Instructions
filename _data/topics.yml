@@ -7,9 +7,3 @@
   filename: p2.html
   child: false
   publish: true
-
-- topic: How to have a good summer(md)
-  filename: p3.html
-  child: true
-  publish: true
-

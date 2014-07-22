@@ -4,6 +4,7 @@ markdown: kramdown
 safe: true
 lsi: true
 baseurl: ""
+ditatask: <article data-hd-class="task">
 
 
 kramdown:
