@@ -1,10 +1,9 @@
-name: A simple demo
+name: The Technical Writing Monkey
 author: Carlos
 markdown: kramdown
 safe: true
 lsi: true
 baseurl: ""
-ditatask: <article data-hd-class="task">
 
 
 kramdown:
