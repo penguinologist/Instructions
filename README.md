@@ -4,7 +4,7 @@ HDITA template for Technical Writing at Virginia Tech (Summer 2014)
 ##Template for Technical Writing HDITA experiment at Virginia Tech
 
 1. Create your github.io repository following the instructions on the [Github Pages site](https://pages.github.com)
-2. Download the template (link on the right sidebar) of this text
+2. Download or clone this template (links on the right sidebar of this text)
 3. Save the template to your local `username.github.io` repository
 2. Update the site's title and information in the `_config.yml` file
 3. Open and modify my sample files for tasks, concepts, and references
