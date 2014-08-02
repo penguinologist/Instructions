@@ -4,7 +4,7 @@
   publish: true
 
 - topic: LibreOffice vs Microsoft Office
-  filename: t-feeding.html
+  filename: t-comparison.html
   child: true
   publish: true
 
