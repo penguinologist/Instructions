@@ -9,7 +9,7 @@
   publish: true
 
 - topic: How to write a letter in LibreOffice Writer
-  filename: t-givingtea.html
+  filename: l-writer.html
   child: false
   publish: true
 
