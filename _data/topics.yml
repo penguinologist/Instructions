@@ -1,11 +1,11 @@
-- topic: How to download and install LibreOffice
-  filename: c-intro.html
+- topic: LibreOffice vs Microsoft Office
+  filename: t-comparison.html
   child: false
   publish: true
 
-- topic: LibreOffice vs Microsoft Office
-  filename: t-comparison.html
-  child: true
+- topic: How to download and install LibreOffice
+  filename: c-intro.html
+  child: false
   publish: true
 
 - topic: How to write a letter in LibreOffice Writer
