@@ -22,8 +22,9 @@
   filename: t-impress.html
   child: false
   publish: true
-
-  - topic: How to uninstall LibreOffice
+  
+  
+- topic: How to uninstall LibreOffice
   filename: t-uninstall.html
   child: false
   publish: true
