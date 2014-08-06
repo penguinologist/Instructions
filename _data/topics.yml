@@ -9,7 +9,7 @@
   publish: true
 
 - topic: How to write a letter in LibreOffice Writer
-  filename: l-writer.html
+  filename: t-writer.html
   child: false
   publish: true
 
@@ -20,5 +20,10 @@
 
 - topic: How to create a presentation in LibreOffice Impress
   filename: t-impress.html
+  child: false
+  publish: true
+
+  - topic: How to uninstall LibreOffice
+  filename: t-uninstall.html
   child: false
   publish: true
